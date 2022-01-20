@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Evolutivo"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/danielfernandes/Desktop/Engenharia Informática/2ºAno/3ºSemestre/Introdução à Inteligencia Artificial/TP2/Hibrido/Hibrido/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Desktop/Engenharia\ Informática/2ºAno/3ºSemestre/Introdução\ à\ Inteligencia\ Artificial/TP2/Hibrido/Hibrido/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Desktop/Engenharia\ Informática/2ºAno/3ºSemestre/Introdução\ à\ Inteligencia\ Artificial/TP2/Hibrido/Hibrido/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Desktop/Engenharia\ Informática/2ºAno/3ºSemestre/Introdução\ à\ Inteligencia\ Artificial/TP2/Hibrido/Hibrido/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Desktop/Engenharia\ Informática/2ºAno/3ºSemestre/Introdução\ à\ Inteligencia\ Artificial/TP2/Hibrido/Hibrido/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/danielfernandes/Desktop/Engenharia Informática/2ºAno/3ºSemestre/Introdução à Inteligencia Artificial/TP2/Hibrido/Hibrido/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Desktop/Engenharia\ Informática/2ºAno/3ºSemestre/Introdução\ à\ Inteligencia\ Artificial/TP2/Hibrido/Hibrido/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Desktop/Engenharia\ Informática/2ºAno/3ºSemestre/Introdução\ à\ Inteligencia\ Artificial/TP2/Hibrido/Hibrido/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Desktop/Engenharia\ Informática/2ºAno/3ºSemestre/Introdução\ à\ Inteligencia\ Artificial/TP2/Hibrido/Hibrido/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Desktop/Engenharia\ Informática/2ºAno/3ºSemestre/Introdução\ à\ Inteligencia\ Artificial/TP2/Hibrido/Hibrido/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/danielfernandes/Desktop/Engenharia Informática/2ºAno/3ºSemestre/Introdução à Inteligencia Artificial/TP2/Hibrido/Hibrido/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Desktop/Engenharia\ Informática/2ºAno/3ºSemestre/Introdução\ à\ Inteligencia\ Artificial/TP2/Hibrido/Hibrido/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Desktop/Engenharia\ Informática/2ºAno/3ºSemestre/Introdução\ à\ Inteligencia\ Artificial/TP2/Hibrido/Hibrido/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Desktop/Engenharia\ Informática/2ºAno/3ºSemestre/Introdução\ à\ Inteligencia\ Artificial/TP2/Hibrido/Hibrido/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Desktop/Engenharia\ Informática/2ºAno/3ºSemestre/Introdução\ à\ Inteligencia\ Artificial/TP2/Hibrido/Hibrido/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Hibrido">
+				<Option output="/Users/danielfernandes/Desktop/Engenharia Informática/2ºAno/3ºSemestre/Introdução à Inteligencia Artificial/TP2/Hibrido/Hibrido/cmake-build-debug/Hibrido" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/danielfernandes/Desktop/Engenharia Informática/2ºAno/3ºSemestre/Introdução à Inteligencia Artificial/TP2/Hibrido/Hibrido/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Desktop/Engenharia\ Informática/2ºAno/3ºSemestre/Introdução\ à\ Inteligencia\ Artificial/TP2/Hibrido/Hibrido/cmake-build-debug/Makefile&quot;  VERBOSE=1 Hibrido"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Desktop/Engenharia\ Informática/2ºAno/3ºSemestre/Introdução\ à\ Inteligencia\ Artificial/TP2/Hibrido/Hibrido/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Desktop/Engenharia\ Informática/2ºAno/3ºSemestre/Introdução\ à\ Inteligencia\ Artificial/TP2/Hibrido/Hibrido/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Desktop/Engenharia\ Informática/2ºAno/3ºSemestre/Introdução\ à\ Inteligencia\ Artificial/TP2/Hibrido/Hibrido/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Hibrido/fast">
+				<Option output="/Users/danielfernandes/Desktop/Engenharia Informática/2ºAno/3ºSemestre/Introdução à Inteligencia Artificial/TP2/Hibrido/Hibrido/cmake-build-debug/Hibrido" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/danielfernandes/Desktop/Engenharia Informática/2ºAno/3ºSemestre/Introdução à Inteligencia Artificial/TP2/Hibrido/Hibrido/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Desktop/Engenharia\ Informática/2ºAno/3ºSemestre/Introdução\ à\ Inteligencia\ Artificial/TP2/Hibrido/Hibrido/cmake-build-debug/Makefile&quot;  VERBOSE=1 Hibrido/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Desktop/Engenharia\ Informática/2ºAno/3ºSemestre/Introdução\ à\ Inteligencia\ Artificial/TP2/Hibrido/Hibrido/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Desktop/Engenharia\ Informática/2ºAno/3ºSemestre/Introdução\ à\ Inteligencia\ Artificial/TP2/Hibrido/Hibrido/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Desktop/Engenharia\ Informática/2ºAno/3ºSemestre/Introdução\ à\ Inteligencia\ Artificial/TP2/Hibrido/Hibrido/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/danielfernandes/Desktop/Engenharia Informática/2ºAno/3ºSemestre/Introdução à Inteligencia Artificial/TP2/Hibrido/Hibrido/algoritmo.c">
+			<Option target="Hibrido"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Desktop/Engenharia Informática/2ºAno/3ºSemestre/Introdução à Inteligencia Artificial/TP2/Hibrido/Hibrido/algoritmo.h">
+			<Option target="Hibrido"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Desktop/Engenharia Informática/2ºAno/3ºSemestre/Introdução à Inteligencia Artificial/TP2/Hibrido/Hibrido/funcao.c">
+			<Option target="Hibrido"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Desktop/Engenharia Informática/2ºAno/3ºSemestre/Introdução à Inteligencia Artificial/TP2/Hibrido/Hibrido/funcao.h">
+			<Option target="Hibrido"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Desktop/Engenharia Informática/2ºAno/3ºSemestre/Introdução à Inteligencia Artificial/TP2/Hibrido/Hibrido/main.c">
+			<Option target="Hibrido"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Desktop/Engenharia Informática/2ºAno/3ºSemestre/Introdução à Inteligencia Artificial/TP2/Hibrido/Hibrido/utils.c">
+			<Option target="Hibrido"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Desktop/Engenharia Informática/2ºAno/3ºSemestre/Introdução à Inteligencia Artificial/TP2/Hibrido/Hibrido/utils.h">
+			<Option target="Hibrido"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Desktop/Engenharia Informática/2ºAno/3ºSemestre/Introdução à Inteligencia Artificial/TP2/Hibrido/Hibrido/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

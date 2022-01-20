@@ -1,0 +1,3 @@
+C:/Users/hugoj/Desktop/ISEC/OneDrive - ISEC/2_ANO/1_SEMESTRE/IIA/TP2_IIA_2021_22/IIA/TrepaColinas/cmake-build-debug/CMakeFiles/TrepaColinas.dir
+C:/Users/hugoj/Desktop/ISEC/OneDrive - ISEC/2_ANO/1_SEMESTRE/IIA/TP2_IIA_2021_22/IIA/TrepaColinas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hugoj/Desktop/ISEC/OneDrive - ISEC/2_ANO/1_SEMESTRE/IIA/TP2_IIA_2021_22/IIA/TrepaColinas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

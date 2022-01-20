@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TrepaColinas",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TrepaColinas::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TrepaColinas-Debug-6097be22e8bd36682e1a.json",
+					"name" : "TrepaColinas",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/hugoj/Desktop/ISEC/OneDrive - ISEC/2_ANO/1_SEMESTRE/IIA/TP2_IIA_2021_22/IIA/TrepaColinas/cmake-build-debug",
+		"source" : "C:/Users/hugoj/Desktop/ISEC/OneDrive - ISEC/2_ANO/1_SEMESTRE/IIA/TP2_IIA_2021_22/IIA/TrepaColinas"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
